@@ -1,0 +1,10 @@
+.main-container{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+}
+.navbar-main{
+    font-family: 'Roboto', sans-serif;
+}
